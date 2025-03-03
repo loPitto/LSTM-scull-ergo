@@ -23,7 +23,7 @@ ALLDATAF = {[CART,'S01.mat']
             [CART,'S05.mat']
             [CART,'S06.mat']
             [CART,'S07.mat']
-            [CART,'S07.mat']
+            [CART,'S08.mat']
             [CART,'S09.mat']
             [CART,'S10.mat']
             [CART,'S11.mat']};
